@@ -12,7 +12,7 @@ This repository presents a deep learning pipeline for automated galaxy morpholog
 
 - **Galaxy10 DECals**: 17,736 labeled RGB images (256x256) across 10 galaxy morphology classes.
 - **Classes**: Examples include Spiral, Elliptical, Edge-on, Merger, and others.
-- **Access**: Downloaded via the [astroNN](https://astro.nn/datasets/](https://astronn.readthedocs.io/en/latest/galaxy10.html) package.
+- **Access**: Downloaded via the [astroNN](https://astronn.readthedocs.io/en/latest/galaxy10.html) package.
 
 ## Models Used
 
